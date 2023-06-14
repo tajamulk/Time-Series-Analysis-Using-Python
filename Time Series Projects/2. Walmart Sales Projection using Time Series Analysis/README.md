@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/391/0-5110852131752018005.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230604T194523Z&X-Amz-Expires=49329&X-Amz-Signature=dda966dcc1b65c9ae4c13ed934706a7bb364385518a29ce4ce86ed3688e137fe&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27World%2520Cancer%2520Day.gif&response-expires=Mon%2C%2005%20Jun%202023%2009%3A27%3A32%20GMT"/>
+<img align="right" height="250" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/436/0-993437148096212153.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230613%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230613T192049Z&X-Amz-Expires=87666&X-Amz-Signature=29fa6a682a8f1b1d6ad04515c445a6cae4a724f3edc09ba1b69ff81d20b8ed78&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27World%2520Cancer%2520Day.gif&response-expires=Wed%2C%2014%20Jun%202023%2019%3A41%3A55%20GMT"/>
 
 ###
 
