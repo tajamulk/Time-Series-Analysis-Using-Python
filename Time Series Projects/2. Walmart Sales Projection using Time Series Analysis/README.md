@@ -1,4 +1,4 @@
-# Air Passengers Traffic Forecasting using Time Series
+# Walmart Sales Projection using Time Series Analysis
 
 ###
 
@@ -8,7 +8,8 @@
 
 ## Aim
 
-In this project we are collecting the yearly data of the passenger number of the aeroplane and later predict the future year passenger number. In this project we forecaset the number of global air passenger journeys to increase at an average rate of 4.0% each year over the next 20 years. The number of global air passenger journeys is expected to increase at an average rate of 5.3% each year over the next 5 years.
+The Main Objective is to build useful insights using the data and make prediction models to forecast the sales for X number of months/years in order to balance supply and demand in a manner that achieves the financial and
+service objectives of the enterprise.
 
 ## Tech Stack
 
