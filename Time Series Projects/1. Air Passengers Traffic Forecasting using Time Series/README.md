@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/391/0-5110852131752018005.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230604%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230604T194523Z&X-Amz-Expires=49329&X-Amz-Signature=dda966dcc1b65c9ae4c13ed934706a7bb364385518a29ce4ce86ed3688e137fe&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27World%2520Cancer%2520Day.gif&response-expires=Mon%2C%2005%20Jun%202023%2009%3A27%3A32%20GMT"/>
+<img align="right" height="250" src="https://export-download.canva.com/j0g_k/DAFgolj0g_k/462/0/0006-5923752928072579990.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230614T201907Z&X-Amz-Expires=74858&X-Amz-Signature=a3591c32e421ae80b270bab9c91383a0c9b22cb65bbb6d0b442e7e2570baf4a3&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Air%2520Passengers%2520Traffic.png&response-expires=Thu%2C%2015%20Jun%202023%2017%3A06%3A45%20GMT"/>
 
 ###
 
