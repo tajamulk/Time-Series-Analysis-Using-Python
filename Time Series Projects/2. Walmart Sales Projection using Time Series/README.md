@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="250" src="https://export-download.canva.com/1Uez0/DAFjM11Uez0/189/0/0010-3807061103765619447.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20230615%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230615T061754Z&X-Amz-Expires=38709&X-Amz-Signature=623252a31fe24fbc439a2aa28b1b359f0774ab2167659a534a7b04313f6bddca&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Black%2520Doodle%2520Group%2520Project%2520Presentation.png&response-expires=Thu%2C%2015%20Jun%202023%2017%3A03%3A03%20GMT"/>
+<img align="right" height="250" src="https://drive.google.com/file/d/1Zaf2UhOdMJaQM-B9o8IdRW8J4zQAvpxU/view?usp=drive_link"/>
 
 ###
 
