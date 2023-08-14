@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="250" src="https://drive.google.com/file/d/1Zaf2UhOdMJaQM-B9o8IdRW8J4zQAvpxU/view?usp=drive_link"/>
-
-###
-
 ## Aim
 
 The Main Objective is to build useful insights using the data and make prediction models to forecast the sales for X number of months/years in order to balance supply and demand in a manner that achieves the financial and
